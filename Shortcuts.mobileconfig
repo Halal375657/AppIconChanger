@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <!-- Web Clip for Facebook -->
+        <dict>
+           <key>PayloadType</key>
+            <string>com.apple.webClip.managed</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>PayloadIdentifier</key>
+            <string>com.abcd.ChargingAnim.shortcut</string>
+            <key>PayloadUUID</key>
+            <string>YOUR-UUID-HERE</string>
+            <key>PayloadDisplayName</key>
+            <string>Facebook Shortcut</string>
+            <key>Label</key>
+            <string>Facebook</string>
+            <key>URL</key>
+            <string>fb://</string>
+            <key>FullScreen</key>
+            <true/>
+            <key>Precomposed</key>
+            <true/>
+            <key>Icon</key>
+            <data>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</data>
+             <key>IsRemovable</key>
+            <true/>
+        </dict>
+    </array>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+    <key>PayloadIdentifier</key>
+    <string>com.example.test.config</string>
+    <key>PayloadUUID</key>
+    <string>CONFIG-UUID</string>
+    <key>PayloadDisplayName</key>
+    <string>Custom Shortcut Profile</string>
+</dict>
+</plist>
